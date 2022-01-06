@@ -1,0 +1,38 @@
+
+header {
+    width: 100%;
+    height: 50px;
+    background-color: lightgrey;
+    padding: 30px;
+}
+header > a{
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+#inicio {
+    padding-left: 30%;
+    padding-right: 50px;
+}
+body{
+    background-color: lightblue;
+}
+#detalle{
+    margin-left: 30%;
+    width: 500px;
+    padding: 10px;
+   
+    background-color: lightcyan;
+    
+}
+#detalle > p{
+    font-size: 30px;
+    width: 350px;
+    
+    margin-left: 20% ;
+    margin-right: 20% ;
+
+    font-weight: bolder;
+    background-color: lightgray;
+
+}
