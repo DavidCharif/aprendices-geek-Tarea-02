@@ -27,7 +27,7 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 
-let dataPeliculas = [{"titulo":"Encanto","urlImgVe":"./imagenes/encanto-ve.jpg"},{"titulo":"Sing-2","urlImgVe":"./imagenes/sing-2-ve.jpg"},{"titulo":"SpiderMan-No Way Home","urlImgVe":"./imagenes/spider-man-no-way-home-spanish-ve.jpg"},{"titulo":"The kings man","urlImgVe":"../imagenes/the-kings-man-ve.jpg"},{"titulo":"The Matrix Resurreciones","urlImgVe":"./imagenes/the-matrix-ve.jpg"}]
+let dataPeliculas = [{"titulo":"Encanto","urlImgVe":"./imagenes/encanto-ve.jpg"},{"titulo":"Sing-2","urlImgVe":"./imagenes/sing-2-ve.jpg"},{"titulo":"SpiderMan-No Way Home","urlImgVe":"./imagenes/spider-man-no-way-home-spanish-ve.jpg"},{"titulo":"The kings man","urlImgVe":"./imagenes/the-kings-man-ve.jpg"},{"titulo":"The Matrix Resurreciones","urlImgVe":"./imagenes/the-matrix-ve.jpg"}]
 
 let gallery = document.getElementById("container");
 

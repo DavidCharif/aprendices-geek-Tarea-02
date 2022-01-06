@@ -3,6 +3,8 @@ header {
     height: 50px;
     background-color: lightgrey;
     padding: 30px;
+    margin-bottom : 10px;
+    
 }
 header > a{
     justify-content: center;
