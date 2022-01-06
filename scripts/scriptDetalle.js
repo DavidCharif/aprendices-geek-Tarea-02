@@ -4,7 +4,7 @@ let detalleDIC = [{
     "director/es":"Byron Howard, Jared Bush",
     "descripcion":"Una joven colombiana puede ser la última esperanza para su familia, cuando descubre que la magia que rodea a Encanto, un lugar encantado que bendice a los niños con dones únicos, se encuentra en serio peligro.",
 },{
-    "titulo":"sing-2",
+    "titulo":"Sing-2",
     "año":"2021",
     "director/es":"Garth Jennings",
     "descripcion":"Buster Moon y su elenco de animales artistas se preparan para lanzar un deslumbrante espectáculo escénico en la capital mundial del entretenimiento. Solo hay un problema: debe convencer a la estrella de rock más solitaria del mundo de unirse a ellos.",
